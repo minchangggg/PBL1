@@ -1,0 +1,69 @@
+
+DANH SACH HOC SINH DAU XET TUYEN: 
+____Maths includes 1 student____
+1.
+name: minh trang
+gender: 1
+birthday: 31-12
+ethnicity: 1
+birthplace: 1
+permanent_address: 1
+contact_address: 1
+phonenumber: 1
+schoolname: 1
+ID_student: 1
+graduation_rate: 1
+subject: 1
+Mark in maths: 9
+Mark in literature: 9
+Mark in english: 9
+Mark in special subject: 9
+Entrance exam result: 54
+____Physics includes 1 student____
+1.
+name: anh tuan
+gender: 0
+birthday: 2
+ethnicity: 2
+birthplace: 2
+permanent_address: 2
+contact_address: 2
+phonenumber: 2
+schoolname: 2
+ID_student: 2
+graduation_rate: 2
+subject: 2
+Mark in maths: 8
+Mark in literature: 8
+Mark in english: 8
+Mark in special subject: 8
+Entrance exam result: 48
+____Chemistry includes 0 student____
+____Biology includes 0 student____
+____English includes 0 student____
+____IT includes 0 student____
+____Literature includes 0 student____
+____History includes 0 student____
+____Geography includes 0 student____
+____French includes 0 student____
+____Japanese includes 0 student______________________________________________________________
+
+DANH SACH HOC SINH ROT XET TUYEN: 
+1. Thong tin hoc sinh thu 1 la: 
+name: hân
+gender: 1
+birthday: 3
+ethnicity: 3
+birthplace: 3
+permanent_address: 1
+contact_address: 3
+phonenumber: 3
+schoolname: 3
+ID_student: 3
+graduation_rate: 2
+subject: 4
+Mark in maths: 7
+Mark in literature: 9
+Mark in english: 9
+Mark in special subject: 5
+Entrance exam result: 40__________________________________________________________
