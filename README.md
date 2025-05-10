@@ -1,23 +1,12 @@
-# MÔ HÌNH HÓA HỆ THỐNG TUYỂN SINH TRƯỜNG THPT CHUYÊN LÊ QUÝ ĐÔN ĐÀ NẴNG
-
-Dự án được làm dựa trên ngôn ngữ lập trình c++
-
+# Modeling the Admission System of Lê Quý Đôn High School for the Gifted, Danang
+The project is developed based on the C++ programming language.
 ### `Folder CODE`
-
-Đây là thư mục chứa toàn bộ code của dự án.
-
+This folder contains all the source code of the project.
 ### `Folder DOC`
-
-Đây là thư mục chứa file báo cáo của dự án.
-
+This folder contains the project report file.
 ### `Folder REL`
-
-Đây là thư mục chứa các link tài liệu tham khảo liên quan đến dự án.
-
+This folder contains links to reference materials related to the project.
 ### `Folder SLIDE`
-
-Đây là thư mục chứa slide thuyết trình của dự án.
-
+This folder contains the presentation slides of the project.
 ### `Folder VIDEO`
-
-Đây là thư mục chứa video thuyết trình của dự án.
+This folder contains the presentation video of the project.
