@@ -1,4 +1,4 @@
-# Modeling the Admission System of Lê Quý Đôn High School for the Gifted, Danang
+# Modeling the Admission System of Le Quy Don High School for the Gifted, Danang
 The project is developed based on the C++ programming language.
 ### `Folder CODE`
 This folder contains all the source code of the project.
